@@ -1,7 +1,5 @@
 ### Hi there 👋
-<p align="center" width='100px'>
-![Polish_20220920_124758567](https://user-images.githubusercontent.com/105257600/197370987-a5fc912c-b1dd-4a5a-b001-53502f79dfb8.png)
-</p>
+![Polish_20220920_124758567](https://user-images.githubusercontent.com/105257600/197370987-a5fc912c-b1dd-4a5a-b001-53502f79dfb8.png) width='100px'
 <!--
 **FernoLopez/FernoLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
